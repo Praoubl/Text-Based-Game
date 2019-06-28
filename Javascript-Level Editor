@@ -34,7 +34,7 @@ var mtxt,mcol,menu,cmenu,qwertyuio,bline=false,cline,nline=0;
 var pline={
     x:[],
     y:[]
-};
+};//3745695hdfr
 var display,displayColors;
 var isText=function(a){
     if(a+""===a){
@@ -45,7 +45,7 @@ var isText=function(a){
 };
 var twodisplay;
 var twodisplayColors;
-if(isNaN(qwertyuio)){
+if(isNaN(qwertyuio)){//64543jkht
     mcol=color(0);
     qwertyuio=0;
     menu=false;
