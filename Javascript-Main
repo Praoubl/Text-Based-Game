@@ -42,7 +42,7 @@
 /*
     Non-box chars are prioritized in combination
     | and - and _ are ineffible
-*/
+*///453487637546755673645jkgfd
 var chars=[" "," "," ","┘"," ","└","─","┴"," ","│","┐","┤","┌","├","┬","┼"],i=0,j=0,er=[0,0,0,0],ty=[0,0,0,0],ui=[0,0,0,0],bv=0;
 var sb="─"/*side bar*/,ub="│"/*up bar*/,ul="┌"/*up left*/,ur="┐"/*up right*/,dl="└"/*down left*/,dr="┘"/*down right*/,td="┬"/*tack down*/,tu="┴"/*tack up*/,tr="├"/*tack right*/,tl="┤"/*tack left*/,m="┼"/*midpiece*/,s,ss,xshift=0,yshift=0;
 var p;
